@@ -11,7 +11,7 @@ If explicit:
 * It will output the sequence's **variation** using **three** different methods
 
 If recursive:
-* Enter U(n)
+* Enter **U(n)**
 * It will output the sequence's **variation** using **two** different methods
 
 ## Libraries used

@@ -15,7 +15,7 @@ If recursive:
 * It will output the sequence's **variation** using **two** different methods
 
 ## Libraries used
-[Colors.js](https://github.com/marak/colors.js/)
+[Colors.js](https://github.com/marak/colors.js/)  
 [Math.js](https://github.com/josdejong/mathjs)
 
 ## Author
